@@ -41,6 +41,7 @@ $autoload['sparks'] = array(
 	'template/1.8.0'
 	, 'formbuilder/1.3.0'
 	, 'ion_auth/1.4.0'
+	, 'menu/1.0.0'
 );
 
 /*
@@ -68,7 +69,7 @@ $autoload['packages'] = array(APPPATH.'third_party');
 |	$autoload['libraries'] = array('database', 'session', 'xmlrpc');
 */
 
-$autoload['libraries'] = array('asset', 'menu');
+$autoload['libraries'] = array('asset');
 
 
 /*

@@ -31,6 +31,9 @@
  * @category	Libraries
  * @author		David McReynolds @ Daylight Studio
  * @link		http://www.getfuelcms.com/user_guide/libraries/menu
+ *
+ * --- Addendum ---
+ * Modified/repackaged by B. Kendall (barnabas@bkendall.biz) to be distributed as a Spark
  */
 
 class Menu {
@@ -1056,6 +1059,3 @@ class Menu {
 
 
 }
-
-/* End of file Menu.php */
-/* Location: ./application/libraries/Menu.php */
